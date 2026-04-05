@@ -2,6 +2,8 @@
 
 This is a real-world **Natural Language Processing (NLP)** project that detects whether an SMS message is **Spam** or **Ham (Not Spam)** using Machine Learning.
 
+## 🚀 Live Demo
+👉 [Click here to try the app](https://ubaidrees-sms-spam-detector-app-rvw7nm.streamlit.app/)
 It uses:
 - ✅ Python  
 - ✅ TF‑IDF Vectorizer  
@@ -61,11 +63,13 @@ Why?
 ---
 
 ## ✅ Model Performance
+- ✅ Accuracy: **96.23%**
+- ✅ Precision (Spam): **1.00** — Never blocks a real message
+- ✅ Recall (Spam): **0.72** — Catches 72% of all spam
+- ✅ F1 Score: **0.84**
 
-- ✅ Accuracy: **93% – 99%**  
-- ✅ Confusion Matrix visualized using Seaborn
-
----
+## 📊 Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 
 ## 🔮 Predicting Custom Messages
 
