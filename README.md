@@ -3,7 +3,7 @@
 This is a real-world **Natural Language Processing (NLP)** project that detects whether an SMS message is **Spam** or **Ham (Not Spam)** using Machine Learning.
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://ubaidrees-sms-spam-detector-app-rvw7nm.streamlit.app/)
+👉 [Click here to try the app](https://ui-sms-spam-detector.streamlit.app)
 It uses:
 - ✅ Python  
 - ✅ TF‑IDF Vectorizer  
